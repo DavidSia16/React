@@ -4,8 +4,7 @@ Aplicação web desenvolvida para consolidação e aplicação prática de conce
 
 ---
 
-## Demonstração Online
-Acesse a aplicação em execução: [https://seu-link-de-deploy.vercel.app](https://seu-link-de-deploy.vercel.app)
+
 
 ---
 
@@ -34,9 +33,3 @@ Este projeto foi desenvolvido com o objetivo de colocar em prática os conceitos
 Antes de iniciar, certifique-se de ter instalado em sua máquina:
 - [Node.js](https://nodejs.org/) (versão 18 ou superior)
 - [Git](https://git-scm.com/)
-
-### Instruções de Instalação
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
